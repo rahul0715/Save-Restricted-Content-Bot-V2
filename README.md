@@ -58,7 +58,7 @@ python3 -m devgagan
 
 ## Deploy your bot on `heroku`
 - Star the repo, and fork it in desktop mode
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- Click on  [![Deploy]([![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rahul0715/save7)
 - Fill your values and click deploy ✅
 
 ## Deploy on Render
